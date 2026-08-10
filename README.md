@@ -141,29 +141,21 @@ I'm continuously building and experimenting with new ideas while improving my sk
 
 ---
 
-
 ## GitHub Statistics
 
 <p align="center">
   <img 
-    src="https://github-stats-extended.vercel.app/api?username=Viki-ii&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" 
+    src="https://github-stats-extended.vercel.app/api?username=Viki-ii&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" 
     height="180"
-    alt="GitHub Stats"
+    alt="GitHub Statistics"
   />
   <img 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Viki-ii&layout=compact&hide_border=true&theme=transparent&langs_count=8" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Viki-ii&layout=compact&hide_border=true&theme=transparent" 
     height="180"
     alt="Top Languages"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Viki-ii&hide_border=true&theme=transparent" 
-    height="180"
-    alt="GitHub Streak"
-  />
-</p>
 
 
 ## Let's Connect
