@@ -141,29 +141,30 @@ I'm continuously building and experimenting with new ideas while improving my sk
 
 ---
 
-## Core Concepts
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-1E1E1E?style=flat-square" alt="Data Structures"/>
-  <img src="https://img.shields.io/badge/Algorithms-1E1E1E?style=flat-square" alt="Algorithms"/>
-  <img src="https://img.shields.io/badge/OOP-1E1E1E?style=flat-square" alt="OOP"/>
-  <img src="https://img.shields.io/badge/DBMS-1E1E1E?style=flat-square" alt="DBMS"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-1E1E1E?style=flat-square" alt="Operating Systems"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-1E1E1E?style=flat-square" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/MVC-1E1E1E?style=flat-square" alt="MVC"/>
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-1E1E1E?style=flat-square" alt="Git and GitHub"/>
-</p>
-
----
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viki-ii&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viki-ii&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top Languages"/>
+  <img 
+    src="https://github-stats-extended.vercel.app/api?username=Viki-ii&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" 
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Viki-ii&layout=compact&hide_border=true&theme=transparent&langs_count=8" 
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
----
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Viki-ii&hide_border=true&theme=transparent" 
+    height="180"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 ## Let's Connect
 
