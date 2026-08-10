@@ -140,19 +140,26 @@ I'm continuously building and experimenting with new ideas while improving my sk
 </p>
 
 ---
-
 ## GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-stats-extended.vercel.app/api?username=Viki-ii&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Viki-ii&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
     height="180"
     alt="GitHub Statistics"
   />
-  <img 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Viki-ii&layout=compact&hide_border=true&theme=transparent" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viki-ii&layout=compact&hide_border=true&theme=transparent&langs_count=8"
     height="180"
     alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Viki-ii&theme=transparent&hide_border=true&border_radius=10"
+    height="180"
+    alt="GitHub Streak"
   />
 </p>
 
