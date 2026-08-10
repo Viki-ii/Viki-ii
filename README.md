@@ -1,58 +1,194 @@
-<!-- Modern GitHub Profile README for Viki-ii -->
-
-<h1 align="center">Hi 👋, I'm Vishnu P G</h1>
-<h3 align="center">🚀 Frontend Developer | B.Tech CSE Student | Kerala, India</h3>
-
----
-
-### 👨‍💻 About Me
-- 🎓 Pursuing **B.Tech in Computer Science** at **MITS, Kerala**  
-- 💻 2+ years of experience as a **Frontend Developer**  
-- 🌱 Currently learning **React, Next.js**  
-- 🤝 Open to collaborating on **open-source, automation & sustainable tech projects**  
-- ⚡ Active contributor in **tech communities & volunteering**  
-
----
-
-### 🛠️ Tech Stack
+<h1 align="center">Hi, I'm Vishnu P G</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <strong>Computer Science & Engineering Student</strong><br>
+  Full-Stack Web Development • Python • DSA • Problem Solving
 </p>
 
+
+
+---
+
+## About Me
+
+I'm a Computer Science and Engineering student at **Muthoot Institute of Technology and Science**, currently focused on becoming a stronger **full-stack developer** while improving my problem-solving skills through **Data Structures & Algorithms in Python**.
+
+I enjoy building practical applications, experimenting with different technologies, and turning real-world problems into useful software.
+
+* Currently focused on **Full-Stack Web Development**
+* Practicing **DSA & Competitive Programming with Python**
+* Interested in **backend development, databases and REST APIs**
+* Building projects to learn through hands-on experience
+* Open to **internships, collaborations and interesting software projects**
+
+---
+
+## Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,django,mongodb,mysql,postgres,sqlite,firebase,git,github,vscode,postman&perline=10" alt="Tech Stack"/>
 </p>
 
 ---
 
-### 🌍 Connect With Me
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ProjectHub
+
+**Academic Project Evaluation System**
+
+A Django-based workflow system designed to manage student academic projects from group formation through submissions, reviews and evaluations.
+
+**Highlights**
+
+* Role-based student & faculty dashboards
+* Group and member management
+* Abstract submission & review
+* Report approval workflow
+* SDG tracking & evaluation
+* Django Admin
+* GitHub Actions CI
+
+<a href="https://github.com/Viki-ii/Project-Hub">
+  View Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### Study Alert Eye Detector
+
+**Real-Time Drowsiness Detection**
+
+A Python-based computer-vision application that monitors eye activity through a webcam and triggers an alarm when prolonged eye closure is detected.
+
+**Highlights**
+
+* MediaPipe Face Mesh
+* Eye Aspect Ratio (EAR)
+* Real-time webcam processing
+* Awake / Drowsy / Sleeping states
+* Audio alarm system
+* FPS monitoring
+
+<a href="https://github.com/Viki-ii/study-alert-eye-detector">
+  View Repository →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Fat Loss Diet Plan Creator
+
+**Personalized Kerala-Style Diet Planner**
+
+A responsive web application that generates personalized meal plans based on user metrics, activity level, dietary preference and weight-loss goals.
+
+**Highlights**
+
+* Personalized meal plans
+* BMR & calorie calculations
+* Macro-nutrient breakdown
+* Kerala-style food options
+* Vegetarian & non-vegetarian plans
+* Automatic grocery list
+
+<a href="https://github.com/Viki-ii/Fat-loss-diet-plan-creator">
+  View Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### More Projects
+
+I'm continuously building and experimenting with new ideas while improving my skills in web development, programming and problem solving.
+
+<a href="https://github.com/Viki-ii?tab=repositories">
+  Explore All Repositories →
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/vpg_007/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/PGeion">
+    <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Consistently improving problem-solving skills through DSA and competitive programming.</i>
+</p>
+
+---
+
+## Core Concepts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures-1E1E1E?style=flat-square" alt="Data Structures"/>
+  <img src="https://img.shields.io/badge/Algorithms-1E1E1E?style=flat-square" alt="Algorithms"/>
+  <img src="https://img.shields.io/badge/OOP-1E1E1E?style=flat-square" alt="OOP"/>
+  <img src="https://img.shields.io/badge/DBMS-1E1E1E?style=flat-square" alt="DBMS"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-1E1E1E?style=flat-square" alt="Operating Systems"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-1E1E1E?style=flat-square" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/MVC-1E1E1E?style=flat-square" alt="MVC"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-1E1E1E?style=flat-square" alt="Git and GitHub"/>
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viki-ii&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viki-ii&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top Languages"/>
+</p>
+
+---
+
+## Let's Connect
 
 <p align="center">
   <a href="mailto:vishnupg320@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/vishnu-pg/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vishnu-pg/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Viki-ii" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Viki-ii">
+    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/vpg_007/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/PGeion">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="42" alt="Codeforces"/>
   </a>
 </p>
 
----
-
-### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Viki-ii/Viki-ii/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+  <i>Building • Learning • Solving • Improving</i>
 </p>
